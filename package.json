@@ -1,6 +1,6 @@
 {
-  "name": "dev-localStorage",
-  "version": "1.0.2",
+  "name": "dev-localstorage",
+  "version": "1.0.5",
   "description": "一个简单的localStorage存储库",
   "main": "index.js",
   "scripts": {
